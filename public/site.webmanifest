@@ -1,0 +1,21 @@
+{
+  "name": "Talento Tracklink",
+  "short_name": "Talento Tracklink",
+  "description": "Descubre nuestra cultura empresarial, beneficios y oportunidades de carrera",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#00bcff",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
