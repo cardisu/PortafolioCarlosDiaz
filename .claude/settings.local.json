@@ -1,7 +1,13 @@
 {
   "permissions": {
     "allow": [
-      "Bash(npm list *)"
+      "Bash(npm list *)",
+      "Bash(git pull *)",
+      "Bash(git stash *)",
+      "Bash(git checkout *)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git push *)"
     ]
   }
 }
