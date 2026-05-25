@@ -26,11 +26,10 @@ export function MyAwesomeApp() {
         <>
             <h1 style={MyStyle}>{name}</h1>
             <h3>{lastName}</h3>
-
             <p>Favorite games: {favoriteGames.join(" - ")}</p>
             <p>Is active: {isAtive ? "Yes" : "No"}</p>
             <div>
-                <h1>{anddres.name}</h1>
+               <h1>{anddres.name}</h1>
             </div>
         </>
     )
